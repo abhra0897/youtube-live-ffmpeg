@@ -2,7 +2,7 @@
 This is a shell script for starting an youtube live stream.
 You can add your text overlay and and image overlay.
 
-Before starting this script in shell, go to youube and configure your live stream and store the API key and URL.
+Before starting this script in shell, go to youtube and configure your live stream and store the API key and URL.
 Put the key and the URl in the script. Add your text/image overlay source also.
 
 Now run the script.
